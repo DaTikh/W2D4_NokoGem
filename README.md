@@ -17,4 +17,4 @@ Découverte de la gem Nokogiri au travers de trois exercices.
   Fiers de notre expérience en matière de scrapping nous envisageons à présent de développer une start-up et cherchons un incubateur où s'installer... Jetons un petit coup d'oeil au vivier dans l'hexagone !
   
   
-Réalisé avec plein de **chocolatines** par Baptiste Rogeon @bab !!! =)
+Réalisé avec plein de **chocolatines** par Baptiste Rogeon @bab / avec l'aide de Maxime Fleury @Massimo !!!
