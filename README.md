@@ -14,7 +14,7 @@ Découverte de la gem Nokogiri au travers de trois exercices.
   
 + noko_incubateur.rb
 
-  Fiers de notre expérience en matière de scrapping nous cherchons à présent à développer une start-up et cherchons un incubateur où s'installer... Jetons un petit coup d'oeil au vivier dans l'hexagone !
+  Fiers de notre expérience en matière de scrapping nous envisageons à présent de développer une start-up et cherchons un incubateur où s'installer... Jetons un petit coup d'oeil au vivier dans l'hexagone !
   
   
 Réalisé avec plein de **chocolatines** par Baptiste Rogeon @bab !!! =)
