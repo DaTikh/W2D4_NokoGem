@@ -24,4 +24,11 @@ def get_data
   data = Hash[currencies.zip(prices.map {|i| i.include?(',') ? (i.split /, /) : i})] 
 end
 
-print get_data  # On peut contempler notre hash de 1500+ données Crypto => Prix !
+def perform
+  loop do
+    p get_data  # On peut contempler notre hash de 1500+ données Crypto => Prix !
+    sleep 3600  # Relance le prog toutes les heures. Normalement faudrait enlever le nombre de secondes que prend le prog à tourner.
+  end
+end
+
+perform
